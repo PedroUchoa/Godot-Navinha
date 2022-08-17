@@ -1,7 +1,7 @@
 extends Node2D
 
 const PRE_METEORO = preload("res://Cenas/Meteoro.tscn")
-const PRE_EXPLOSAO = preload("res://Cenas/Explosão.tscn")
+const PRE_EXPLOSAO = preload("res://Cenas/Explosion.tscn")
 
 
 export(NodePath) var nave  
